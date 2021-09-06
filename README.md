@@ -1,2 +1,2 @@
 Hosted on netlify:
-https://unruffled-lewin-067ff5.netlify.app/
+https://simon-game-v1-phenom.netlify.app/
